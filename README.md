@@ -30,7 +30,7 @@ Rules:
 - Do not invent complex features that the client did not ask for. If something is unclear, list it at the end under "Questions for the Client".
 ```
 
-``` Foi colocado para que novos funcionários pudessem usar por que pode ser que eles mesmos tenham que preencher os dados pra algum cliente que possa a não saber usar muito bem sites ou softwares!! ```
+``` Foi colocado para que novos funcionários pudessem usar e colocar dados caso algum cliente tenha dificuldade e não saber usar muito bem sites ou softwares!! ```
 
 ---
 
