@@ -96,7 +96,7 @@ Questions for the Client (Perguntas para o Cliente)
 
 ```
 
-# Observações: Foi colocado para que novos funcionários pudessem usar e colocar dados caso algum cliente tenha dificuldade em não saber usar muito bem sites ou softwares!! 
+* ** Observações: Foi colocado para que novos funcionários pudessem usar e colocar dados caso algum cliente tenha dificuldade em não saber usar muito bem sites ou softwares!! 
 
 
 
