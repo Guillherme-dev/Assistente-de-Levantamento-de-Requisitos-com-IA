@@ -30,8 +30,6 @@ Rules:
 - Do not invent complex features that the client did not ask for. If something is unclear, list it at the end under "Questions for the Client".
 ```
 
-``` Foi colocado para que novos funcionários pudessem usar e colocar dados caso algum cliente tenha dificuldade em não saber usar muito bem sites ou softwares!! ```
-
 ---
 
 ## Estudo de Caso Real: Sistema para Empresa de Manutenção de Ar-Condicionado
@@ -76,6 +74,31 @@ Graças à regra de restrição do prompt, a IA identificou ambiguidades e levan
 * **RNF03 – Facilidade de Aprendizado:** O painel interno deve ser direto e simples para que novos funcionários aprendam rapidamente a atualizar status e consultar Ordens de Serviço.
 
 ---
+
+```
+Perguntas que a IA fez coisas não esclarecidas 
+
+Questions for the Client (Perguntas para o Cliente)
+
+    Lista de cidades e dias de funcionamento: Quais são exatamente as cidades aceitas pela empresa? O horário comercial (08:00 às 18:00) vale apenas de segunda a sexta ou inclui sábados?
+
+    Fluxo do orçamento: Como o orçamento é feito e aprovado? O funcionário envia o valor pelo sistema para o cliente aprovar, ou o orçamento é negociado pelo WhatsApp e o funcionário apenas marca como aprovado no sistema?
+
+    Canal do aviso de aprovação: O aviso para o cliente quando o status muda de "Pendente" para "Aceito" deve ser enviado pelo WhatsApp?
+
+    Funcionamento fora do horário comercial: Fora do horário das 08:00 às 18:00, o cliente ainda pode preencher os dados no formulário (ficando pendente para o dia seguinte) ou o sistema deve ficar totalmente indisponível?
+
+    Ordem de Serviço: Quais informações específicas precisam aparecer na Ordem de Serviço e ela precisa ser gerada em PDF para impressão ou apenas visualizada na tela?
+
+    Registro do feedback: O sistema deve apenas enviar a pergunta no WhatsApp ou também precisa armazenar a nota/resposta do cliente em algum relatório?
+    Relação de cidades: Qual é a lista exata com os nomes das cidades aceitas pela empresa para cadastrarmos no campo de seleção?
+    Aviso de horário comercial: Como o sistema funcionará 24 horas, deseja que apareça uma mensagem simples ao cliente após o envio dos dados informando que o retorno pelo WhatsApp ocorre em horário comercial (segunda a           sexta, das 08:00 às 18:00)?
+
+```
+
+# Observações: Foi colocado para que novos funcionários pudessem usar e colocar dados caso algum cliente tenha dificuldade em não saber usar muito bem sites ou softwares!! 
+
+
 
 ## Ferramentas Utilizadas
 * **Google AI Studio** (Testes e calibração de *System Instructions*)
