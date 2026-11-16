@@ -76,7 +76,7 @@ Graças à regra de restrição do prompt, a IA identificou ambiguidades e levan
 ---
 
 ```
-Perguntas que a IA fez coisas não esclarecidas 
+Perguntas que a IA fez de coisas não esclarecidas 
 
 Questions for the Client (Perguntas para o Cliente)
 
